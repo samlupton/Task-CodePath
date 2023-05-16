@@ -1,32 +1,12 @@
-# Project 4 - *Photo Scavanger Hunt*
+# Task
 
-Submitted by: **Samuel Evans-Lupton**
-
-**Photo Scavanger Hun** is an app for photo scavanger hunts!
-
-Time spent: **5** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x] App displays list of hard-coded tasks
-- [x] When a task is tapped it navigates the user to a task detail view
-- [x] When user adds photo to complete the tasks, it marks the task as complete
-- [x] When adding photo of task, the location is added
-- [x] User returns to home page (list of tasks) and the status of your task is updated to complete
+**Task** is an app for photo scavanger hunts!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src="https://i.imgur.com/MkSwKic.gif" width=200><br>
-
-GIF created with igmur.com 
-
-## Notes
-
-Enjoyed the project
 
 ## License
 
